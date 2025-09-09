@@ -1,0 +1,30 @@
+body {
+    text-align: center;    
+    background-color: #f4f4f4;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #0059b3;
+    font-size: 40px;
+}
+
+#minha-foto {
+    border-radius: 50%;
+    border: 3px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 10px;
+}
